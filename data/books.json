@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "genre": "Fiction",
+    "available": true,
+    "isbn": "978-0743273565",
+    "publisher": "Scribner",
+    "price": 12.99
+  },
+  {
+    "id": 2,
+    "name": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "genre": "Fiction",
+    "available": true,
+    "isbn": "978-0061120084",
+    "publisher": "J.B. Lippincott",
+    "price": 14.99
+  },
+  {
+    "id": 3,
+    "name": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "genre": "Dystopian",
+    "available": false,
+    "isbn": "978-0451524935",
+    "publisher": "Secker & Warburg",
+    "price": 13.99
+  },
+  {
+    "id": 4,
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "genre": "Romance",
+    "available": true,
+    "isbn": "978-0141439518",
+    "publisher": "T. Egerton",
+    "price": 11.99
+  },
+  {
+    "id": 5,
+    "name": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "genre": "Fiction",
+    "available": true,
+    "isbn": "978-0316769174",
+    "publisher": "Little, Brown",
+    "price": 13.99
+  },
+  {
+    "id": 6,
+    "name": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "year": 2008,
+    "genre": "Technology",
+    "available": true,
+    "isbn": "978-0596517748",
+    "publisher": "O'Reilly",
+    "price": 29.99
+  },
+  {
+    "id": 7,
+    "name": "Clean Code",
+    "author": "Robert C. Martin",
+    "year": 2008,
+    "genre": "Technology",
+    "available": false,
+    "isbn": "978-0132350884",
+    "publisher": "Prentice Hall",
+    "price": 32.99
+  },
+  {
+    "id": 8,
+    "name": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937,
+    "genre": "Fantasy",
+    "available": true,
+    "isbn": "978-0547928227",
+    "publisher": "Allen & Unwin",
+    "price": 15.99
+  }
+]

@@ -55,3 +55,14 @@ npm i nodemon --save-dev (it is a dev dependencies)
 To run the server --> npm run dev / npm run start
 
 TO restore node_modules and package-lock.json --> npm i/npm install
+
+
+## Git Commands
+
+git status
+git add .
+git status
+git commit -m "initial set up" (commit in main branch)
+git push
+
+git chackout -b "initail set up" (create a new branch)

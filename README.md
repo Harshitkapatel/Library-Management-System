@@ -34,7 +34,7 @@ DELETE: Delete a book by its ID
 GET: Get all the issued books
 
 ## /books/issued/withfine
-GET: Get all the ssued books with their  fine amount
+GET: Get all the issued books with their  fine amount
 
 
 ### subscription Types

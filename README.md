@@ -56,6 +56,21 @@ To run the server --> npm run dev / npm run start
 
 TO restore node_modules and package-lock.json --> npm i/npm install
 
+npm i mongoose
+npm install mongodb
+
+mongodb+srv://harshitkapatel1212:<db_password>@cluster0.pj9wl50.mongodb.net/?appName=Cluster0
+x36VcF5VaYzYNZ1s
+mongodb+srv://harshitkapatel1212:x36VcF5VaYzYNZ1s@cluster0.pj9wl50.mongodb.net/?appName=Cluster0
+
+npm i dotenv
+
+
+## MVC Architecture
+    >> M: Model (Structure of our MongoDB)
+    >> V: View (Frontend)
+    >> C: Controller (Brian/Logic)
+
 
 ## Git Commands
 
@@ -66,3 +81,6 @@ git commit -m "initial set up" (commit in main branch)
 git push
 
 git chackout -b "initail set up" (create a new branch)
+
+
+### DTO  (Data Transfer Object)
